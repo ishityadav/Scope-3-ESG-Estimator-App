@@ -25,8 +25,8 @@ st.sidebar.markdown("---")
 st.sidebar.header("Filter Data")
 selected_companies = st.sidebar.multiselect(
     "Select Companies to Benchmark",
-    ["ITC Limited", "HUL", "Britannia"],
-    default=["ITC Limited", "HUL", "Britannia"]
+    ["ITC Limited", "HUL", "Britannia", "Hindustan Coca-Cola"],
+    default=["ITC Limited", "HUL", "Britannia", "Hindustan Coca-Cola"]
 )
 
 # --- 3. Data Processing ---
