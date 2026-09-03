@@ -1,7 +1,8 @@
-https://ishityadav-scope-3-esg-estimator-app-app-azndlr.streamlit.app/
-<img width="2940" height="1488" alt="image" src="https://github.com/user-attachments/assets/b7ff9f72-50c0-419e-aa0b-c8828055ed31" />
+https://scope-3-estimator.streamlit.app
+<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 12 36 AM" src="https://github.com/user-attachments/assets/8484de7d-8012-4191-a2fa-1c64477e86ab" />
 
-<img width="2940" height="1626" alt="image" src="https://github.com/user-attachments/assets/dad774d1-fb6f-480e-b06f-9106190d34d5" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 12 48 AM" src="https://github.com/user-attachments/assets/4e39aef4-ae61-4da2-98ad-34ea0f9ea589" />
 
 # 🌱 Corporate Scope 3 Carbon Estimator & Benchmarker
 
