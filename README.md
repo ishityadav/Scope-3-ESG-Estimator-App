@@ -1,14 +1,12 @@
 https://scope-3-estimator.streamlit.app
-<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 12 36 AM" src="https://github.com/user-attachments/assets/8484de7d-8012-4191-a2fa-1c64477e86ab" />
 
 
-<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 12 48 AM" src="https://github.com/user-attachments/assets/4e39aef4-ae61-4da2-98ad-34ea0f9ea589" />
+<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 13 59 AM" src="https://github.com/user-attachments/assets/16c5d60e-ce5b-4e0e-aa24-f23c5c94c52d" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-04 at 2 14 11 AM" src="https://github.com/user-attachments/assets/1bdf51ca-9829-427c-acb2-1b7598e1e8c0" />
+
 
 # 🌱 Corporate Scope 3 Carbon Estimator & Benchmarker
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.38.0-FF4B4B.svg)](https://streamlit.io/)
-[![GHG Protocol](https://img.shields.io/badge/Standard-GHG_Protocol-00a651.svg)](https://ghgprotocol.org/)
 
 An automated, interactive Python data pipeline and web application that calculates and benchmarks the Scope 3 greenhouse gas (GHG) emissions of major Indian FMCG conglomerates. 
 
@@ -20,7 +18,7 @@ Measuring Scope 3 (value-chain) emissions is highly complex due to supplier data
 
 ### Key Features
 * **Interactive Streamlit Dashboard:** A live web application allowing users to manipulate macro-economic assumptions (e.g., currency exchange rates) and see real-time footprint recalculations.
-* **Multi-Company Benchmarking:** Compares FY24 audited spend data across ITC Limited, Hindustan Unilever (HUL), and Britannia.
+* **Multi-Company Benchmarking:** Compares FY24 audited spend data across ITC Limited, Hindustan Unilever (HUL), Britannia, and Hindustan Coca-Cola (HCCB).
 * **Carbon Intensity Metric:** Evaluates carbon efficiency (tCO₂e per ₹1 Crore Revenue) to allow for equitable comparison across different market capitalizations.
 * **Spend-to-Carbon Pareto Analysis:** Visualizes the disparity between financial spend share and environmental impact share, proving that specific procurement categories (like raw materials or marketing services) carry disproportionate carbon penalties.
 
@@ -43,4 +41,4 @@ Measuring Scope 3 (value-chain) emissions is highly complex due to supplier data
 ├── config.py                       # Centralized macroeconomic assumptions
 ├── packages.txt                    # System-level dependencies for cloud deployment
 ├── requirements.txt                # Python package dependencies
-└── README.md<img width="1436" height="745" alt="Screenshot 2026-09-03 at 5 36 02 PM" src="https://github.com/user-attachments/assets/bca5cc81-d80d-4807-b2fd-b6954e61b44e" />
+└── README.md
