@@ -1,0 +1,13 @@
+Company,Revenue_INR_Crores,Expense_Item,Spend_INR_Crores,DEFRA_Category,GHG_Scope3_Category,kgCO2e_per_GBP,Spend_GBP,Emissions_tCO2e
+ITC Limited,69446.2,Cost of materials consumed,21772.58,Manufacture of food products,Category 1: Purchased Goods and Services,0.742,2073579047.6190479,1538595.6533333336
+ITC Limited,69446.2,Purchases of Stock-in-Trade,6063.32,Wholesale trade services,Category 1: Purchased Goods and Services,0.315,577459047.6190476,181899.6
+ITC Limited,69446.2,Outward freight and handling charges,1582.34,Road transport services (freight),Category 9: Downstream Transportation and Distribution,0.485,150699047.6190476,73089.0380952381
+ITC Limited,69446.2,Travelling and conveyance,217.19,Passenger transport services (blended),Category 6: Business Travel,0.58,20684761.904761903,11997.161904761902
+HUL,61442.0,Cost of materials consumed,17791.0,Manufacture of food products,Category 1: Purchased Goods and Services,0.742,1694380952.3809524,1257230.6666666667
+HUL,61442.0,Purchases of Stock-in-Trade,11544.0,Wholesale trade services,Category 1: Purchased Goods and Services,0.315,1099428571.4285715,346320.0
+HUL,61442.0,Advertising and promotions,6489.0,Advertising & market research,Category 1: Purchased Goods and Services,0.18,618000000.0,111240.0
+HUL,61442.0,Outward freight and handling charges,232.26,Road transport services (freight),Category 9: Downstream Transportation and Distribution,0.485,22120000.0,10728.2
+Britannia,16769.27,Cost of materials consumed,7394.74,Manufacture of food products,Category 1: Purchased Goods and Services,0.742,704260952.3809524,522561.62666666665
+Britannia,16769.27,Purchases of Stock-in-Trade,2033.36,Wholesale trade services,Category 1: Purchased Goods and Services,0.315,193653333.33333334,61000.8
+Britannia,16769.27,Advertising and sales promotion,619.37,Advertising & market research,Category 1: Purchased Goods and Services,0.18,58987619.047619045,10617.771428571426
+Britannia,16769.27,Travelling and conveyance,92.46,Passenger transport services (blended),Category 6: Business Travel,0.58,8805714.285714285,5107.314285714286
