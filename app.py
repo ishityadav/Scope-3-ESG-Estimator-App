@@ -51,7 +51,8 @@ master_df, benchmark = load_and_process_data(custom_gbp_rate)
 filtered_benchmark = benchmark[benchmark['Company'].isin(selected_companies)]
 filtered_master = master_df[master_df['Company'].isin(selected_companies)]
 
-
+st.write("2. Benchmark DataFrame:")
+st.write(benchmark)
 # --- 4. Dashboard Layout ---
 
 # Top Row: High-Level Metrics
